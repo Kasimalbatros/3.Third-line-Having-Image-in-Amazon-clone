@@ -1,0 +1,6 @@
+In CSS we can insert image using  (background-image)
+
+background-image:url('relative address of image')    --->insert image
+height:600px;
+background-size:cover;   ---> this will fit the image on screen.
+width:100%;
